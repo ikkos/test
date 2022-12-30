@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap');
+* {
+  font-family: "Lato", sans-serif;
+  padding: 0;
+  margin: 0;
+}
+
+
+
+
+/* ABOUT ME */
+
+.about-me-container {
+  align-items: center;
+  max-width: 900px;
+  text-align: center;
+}
+
+.text--green{
+  color: #9dc183; 
+}
+
+.picture-of-us {
+  padding: 50px;
+  display: block;
+  margin: auto;
+  text-align: center;
+  border-radius: 100px;
+  max-width: 900px;
+}
+
+.body {
+  text-align: center;
+}
+
+h2 {
+  padding-top: 20px;
+  font-size: 25px;
+
+}
+
+.linus {
+  margin: 20px;
+}
+
+/* Ideal job */
+
+.ideal-job-container {
+  margin-top: 50px;
+  align-items: center;
+  max-width: 900px;
+  text-align: center;
+  max-height: 600px;
+  height: 600px;
+}
+
+.ideal-job {
+  margin: 20px;
+}
+
+/* Profile */
+
+.profile-container {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  align-items: center;
+  max-width: 900px;
+  text-align: center;
+}
+
+.profile {
+  margin: 20px
+}
