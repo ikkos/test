@@ -14,7 +14,7 @@
   align-items: center;
   max-width: 900px;
   text-align: center;
-  padding: 50px;
+  padding-top: 50px;
 }
 
 .text--green{
@@ -42,10 +42,17 @@ h2 {
 
 .carousel-inner{
   max-width: 500px;
+  padding-top: 50px;
 }
+
+.carousel 
 
 h5 {
 color: whitesmoke;
 background-color: rgba(108, 122, 137, .8);
 
+}
+
+h3 {
+  padding-bottom: 50px;
 }
