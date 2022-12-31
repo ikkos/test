@@ -41,7 +41,7 @@ h2 {
 }
 
 .carousel-inner{
-  max-width: 500px;
+  max-width: 700px;
   padding-top: 50px;
 }
 
@@ -55,4 +55,9 @@ background-color: rgba(108, 122, 137, .8);
 
 h3 {
   padding-bottom: 50px;
+}
+
+.carousel-control-next,
+.carousel-control-prev /*, .carousel-indicators */ {
+    filter: invert(100%);
 }
