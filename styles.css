@@ -14,6 +14,7 @@
   align-items: center;
   max-width: 900px;
   text-align: center;
+  padding: 50px;
 }
 
 .text--green{
@@ -21,7 +22,7 @@
 }
 
 .picture-of-us {
-  padding: 50px;
+  padding-top: 50px;
   display: block;
   margin: auto;
   text-align: center;
@@ -39,35 +40,12 @@ h2 {
 
 }
 
-.linus {
-  margin: 20px;
+.carousel-inner{
+  max-width: 500px;
 }
 
-/* Ideal job */
+h5 {
+color: whitesmoke;
+background-color: rgba(108, 122, 137, .8);
 
-.ideal-job-container {
-  margin-top: 50px;
-  align-items: center;
-  max-width: 900px;
-  text-align: center;
-  max-height: 600px;
-  height: 600px;
-}
-
-.ideal-job {
-  margin: 20px;
-}
-
-/* Profile */
-
-.profile-container {
-  margin-top: 50px;
-  margin-bottom: 50px;
-  align-items: center;
-  max-width: 900px;
-  text-align: center;
-}
-
-.profile {
-  margin: 20px
 }
